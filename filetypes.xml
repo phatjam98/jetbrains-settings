@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping ext="epub" type="ARCHIVE" />
       <mapping ext="htmlz" type="ARCHIVE" />
-      <mapping ext="tmpl" type="Go Template" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
@@ -12,6 +11,7 @@
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping pattern="Kptfile" approved="true" type="YAML" />
+      <mapping ext="tmpl" type="Go Template" />
     </extensionMap>
   </component>
 </application>
