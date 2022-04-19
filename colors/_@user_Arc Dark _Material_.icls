@@ -4,7 +4,7 @@
     <property name="created">2022-01-11T09:07:45</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.3.1.0.0</property>
-    <property name="modified">2022-01-27T11:10:42</property>
+    <property name="modified">2022-04-19T10:30:51</property>
     <property name="originalScheme">Arc Dark (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -77,7 +77,7 @@
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="f9ee98" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="f9ee98" />
     <option name="FILESTATUS_OBSOLETE" value="a7a7a7" />
-    <option name="FILESTATUS_RENAMED" value="c792ea" />
+    <option name="FILESTATUS_RENAMED" value="baacff" />
     <option name="FILESTATUS_SUPPRESSED" value="5f5a60" />
     <option name="FILESTATUS_SWITCHED" value="9b859d" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
@@ -3184,7 +3184,6 @@
         <option name="BACKGROUND" value="252b39" />
       </value>
     </option>
-    <option name="RHTML_COMMENT_ID" baseAttributes="HTML_COMMENT" />
     <option name="RHTML_EXPRESSION_END_ID">
       <value>
         <option name="FOREGROUND" value="a7a7a7" />
@@ -3195,7 +3194,6 @@
         <option name="FOREGROUND" value="a7a7a7" />
       </value>
     </option>
-    <option name="RHTML_OMIT_NEW_LINE_ID" baseAttributes="XML_ATTRIBUTE_NAME" />
     <option name="RHTML_SCRIPTING_BACKGROUND_ID">
       <value>
         <option name="FOREGROUND" value="a7a7a7" />
