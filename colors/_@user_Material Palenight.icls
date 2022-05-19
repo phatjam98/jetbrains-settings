@@ -4,7 +4,7 @@
     <property name="created">2021-12-10T08:49:55</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.3.0.0</property>
-    <property name="modified">2022-04-22T10:26:35</property>
+    <property name="modified">2022-05-19T07:39:21</property>
     <property name="originalScheme">Material Palenight</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -3666,8 +3666,8 @@
         <option name="FOREGROUND" value="c3e88d" />
       </value>
     </option>
-    <option name="Scala Type Alias" baseAttributes="" />
-    <option name="Scala Type parameter" baseAttributes="" />
+    <option name="Scala Type Alias" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
+    <option name="Scala Type parameter" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
     <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
     <option name="Static property reference ID">
       <value>
