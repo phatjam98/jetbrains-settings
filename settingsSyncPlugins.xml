@@ -13,7 +13,18 @@
             </PluginData>
           </value>
         </entry>
-        <entry key="com.chrisrm.idea.MaterialThemeUI">
+        <entry key="Key Promoter X">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="String Manipulation">
           <value>
             <PluginData>
               <option name="dependencies">
@@ -22,6 +33,17 @@
                 </set>
               </option>
               <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.chrisrm.idea.MaterialThemeUI">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
             </PluginData>
           </value>
         </entry>
@@ -48,14 +70,60 @@
                   <option value="com.intellij.modules.ultimate" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.intellij.datagen">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
             </PluginData>
           </value>
         </entry>
         <entry key="com.intellij.guice">
           <value>
+            <PluginData />
+          </value>
+        </entry>
+        <entry key="com.intellij.ideolog">
+          <value>
             <PluginData>
-              <option name="enabled" value="false" />
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.intellij.kubernetes">
+          <value>
+            <PluginData />
+          </value>
+        </entry>
+        <entry key="com.intellij.selenium">
+          <value>
+            <PluginData />
+          </value>
+        </entry>
+        <entry key="com.intellij.tide">
+          <value>
+            <PluginData />
+          </value>
+        </entry>
+        <entry key="com.mroche.JsonHelper">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
             </PluginData>
           </value>
         </entry>
@@ -65,6 +133,18 @@
               <option name="dependencies">
                 <set>
                   <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="mobi.hsz.idea.gitignore">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                  <option value="com.intellij.modules.vcs" />
                 </set>
               </option>
             </PluginData>
@@ -81,11 +161,20 @@
             </PluginData>
           </value>
         </entry>
-        <entry key="org.jetbrains.plugins.go-template">
+        <entry key="org.intellij.scala">
           <value>
             <PluginData>
-              <option name="enabled" value="false" />
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.java" />
+                </set>
+              </option>
             </PluginData>
+          </value>
+        </entry>
+        <entry key="org.jetbrains.plugins.go-template">
+          <value>
+            <PluginData />
           </value>
         </entry>
         <entry key="org.sonarlint.idea">
@@ -94,6 +183,28 @@
               <option name="dependencies">
                 <set>
                   <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="ru.adelf.idea.dotenv">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="some.awesome">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
                 </set>
               </option>
             </PluginData>
