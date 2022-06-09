@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'phc-elasticsearch'" />
-    <option name="defaultScopeName" value="Project 'phc-elasticsearch'" />
-    <option name="SEARCH_SCOPE" value="Project 'phc-elasticsearch'" />
+    <option name="customScope" value="Project 'pharos-notifications'" />
+    <option name="defaultScopeName" value="Project 'pharos-notifications'" />
+    <option name="SEARCH_SCOPE" value="Project 'pharos-notifications'" />
   </component>
 </application>
