@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="epub" type="ARCHIVE" />
       <mapping ext="htmlz" type="ARCHIVE" />
+      <mapping pattern="725462288" type="AUTO_DETECTED" />
       <mapping ext="tmpl" type="Go Template" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
