@@ -1,0 +1,14 @@
+<templateSet group="Java">
+  <template name="grpcerr" value="var reason = &quot;$REASON$&quot;;&#10;var errorMessage = &quot;$ERROR$&quot;;&#10;var status = StatusBuilder.getStatus($CODE$, Collections.singletonMap(&quot;$KEY$&quot;, &quot;$VALUE$&quot;), errorMessage, reason);&#10;responseObserver.onError(StatusProto.toStatusRuntimeException(status));" description="gRPC on error template" toReformat="false" toShortenFQNames="true">
+    <variable name="REASON" expression="" defaultValue="&quot;Something Went Wrong&quot;" alwaysStopAt="true" />
+    <variable name="ERROR" expression="" defaultValue="&quot;Some Error has occured.&quot;" alwaysStopAt="true" />
+    <variable name="CODE" expression="" defaultValue="&quot;Code.NOT_FOUND&quot;" alwaysStopAt="true" />
+    <variable name="KEY" expression="" defaultValue="&quot;request&quot;" alwaysStopAt="true" />
+    <variable name="VALUE" expression="" defaultValue="&quot;something bad here&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CONSUMER" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
