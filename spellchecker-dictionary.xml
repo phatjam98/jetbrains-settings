@@ -5,6 +5,7 @@
       <w>idtoken</w>
       <w>jobmanager</w>
       <w>skaffold</w>
+      <w>statefun</w>
       <w>taskmanager</w>
     </words>
   </component>
